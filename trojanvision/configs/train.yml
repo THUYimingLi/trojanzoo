@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+epoch:
+  cifar10: 300
+
+lr_decay_step:
+  cifar10: 100

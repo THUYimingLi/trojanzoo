@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+
+alpha:
+  default: 0.0117647
+
+epsilon:
+  default: 0.03137255
+
+iteration:
+  default: 20
+
+stop_threshold: None
+
+target_idx: 1
+
+grad_method: white
+query_num: 100
+sigma: 0.001

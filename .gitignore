@@ -1,0 +1,34 @@
+# Configureation Files
+.vs
+.vscode
+.devcontainer
+.idea
+
+# Working on
+# /.travis.yml
+# /docs
+/setup.py
+
+# Temp Files
+.DS_Store
+.dropbox
+.ssh
+.ipynb_checkpoints
+*.pyc
+*.ini
+__pycache__
+
+# Filter Directory
+/bash
+/configs
+/cmd_config
+/data
+/result
+/projects
+/tex
+
+# Other projects
+/lifelong
+
+# test file
+/test.py
